@@ -33,6 +33,15 @@ p[epub|type~="z3998:salutation"]{
 }
 /* end verse */
 
+table{
+	font-variant-numeric: tabular-nums;
+	margin: 1em auto;
+}
+
+table td:last-child{
+	padding-left: 1em;
+}
+
 /* Begin Bespoke */
 q:not(.telegram){
 	font-style: italic;
