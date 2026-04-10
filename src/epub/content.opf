@@ -97,8 +97,31 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-fairy-in-the-flat.xhtml" id="a-fairy-in-the-flat.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-pot-of-tea.xhtml" id="a-pot-of-tea.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/blindmans-buff.xhtml" id="blindmans-buff.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/finessing-the-king.xhtml" id="finessing-the-king.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-adventure-of-the-sinister-stranger-continued.xhtml" id="the-adventure-of-the-sinister-stranger-continued.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-sinister-stranger.xhtml" id="the-adventure-of-the-sinister-stranger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-affair-of-the-pink-pearl-continued.xhtml" id="the-affair-of-the-pink-pearl-continued.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-affair-of-the-pink-pearl.xhtml" id="the-affair-of-the-pink-pearl.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ambassadors-boots.xhtml" id="the-ambassadors-boots.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-case-of-the-missing-lady.xhtml" id="the-case-of-the-missing-lady.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-clergymans-daughter.xhtml" id="the-clergymans-daughter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-crackler-continued.xhtml" id="the-crackler-continued.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-crackler.xhtml" id="the-crackler.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-gentleman-dressed-in-newspaper.xhtml" id="the-gentleman-dressed-in-newspaper.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-house-of-lurking-death-continued.xhtml" id="the-house-of-lurking-death-continued.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-house-of-lurking-death.xhtml" id="the-house-of-lurking-death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-in-the-mist-continued.xhtml" id="the-man-in-the-mist-continued.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-in-the-mist.xhtml" id="the-man-in-the-mist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-who-was-no-16.xhtml" id="the-man-who-was-no-16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-red-house.xhtml" id="the-red-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sunningdale-mystery-continued.xhtml" id="the-sunningdale-mystery-continued.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sunningdale-mystery.xhtml" id="the-sunningdale-mystery.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-unbreakable-alibi.xhtml" id="the-unbreakable-alibi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -106,6 +129,29 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="a-fairy-in-the-flat.xhtml"/>
+		<itemref idref="a-pot-of-tea.xhtml"/>
+		<itemref idref="the-affair-of-the-pink-pearl.xhtml"/>
+		<itemref idref="the-affair-of-the-pink-pearl-continued.xhtml"/>
+		<itemref idref="the-adventure-of-the-sinister-stranger.xhtml"/>
+		<itemref idref="the-adventure-of-the-sinister-stranger-continued.xhtml"/>
+		<itemref idref="finessing-the-king.xhtml"/>
+		<itemref idref="the-gentleman-dressed-in-newspaper.xhtml"/>
+		<itemref idref="the-case-of-the-missing-lady.xhtml"/>
+		<itemref idref="blindmans-buff.xhtml"/>
+		<itemref idref="the-man-in-the-mist.xhtml"/>
+		<itemref idref="the-man-in-the-mist-continued.xhtml"/>
+		<itemref idref="the-crackler.xhtml"/>
+		<itemref idref="the-crackler-continued.xhtml"/>
+		<itemref idref="the-sunningdale-mystery.xhtml"/>
+		<itemref idref="the-sunningdale-mystery-continued.xhtml"/>
+		<itemref idref="the-house-of-lurking-death.xhtml"/>
+		<itemref idref="the-house-of-lurking-death-continued.xhtml"/>
+		<itemref idref="the-unbreakable-alibi.xhtml"/>
+		<itemref idref="the-clergymans-daughter.xhtml"/>
+		<itemref idref="the-red-house.xhtml"/>
+		<itemref idref="the-ambassadors-boots.xhtml"/>
+		<itemref idref="the-man-who-was-no-16.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
