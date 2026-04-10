@@ -48,12 +48,12 @@ q:not(.telegram){
 }
 
 .telegram{
-    font-variant: all-small-caps;
+	font-variant: all-small-caps;
 }
 
 #the-house-of-lurking-death-continued blockquote:first-of-type p{
 	font-variant: small-caps;
-    text-align: center;
+	text-align: center;
 	text-indent: 0;
 }
 /* end bespoke */
