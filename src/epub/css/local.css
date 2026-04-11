@@ -51,7 +51,7 @@ q:not(.telegram){
 	font-variant: all-small-caps;
 }
 
-#the-house-of-lurking-death-continued blockquote:first-of-type p{
+#the-house-of-lurking-death blockquote:first-of-type p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
