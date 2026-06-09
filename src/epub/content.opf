@@ -44,31 +44,35 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Tommy and Tuppence</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young married couple take over running an “International Detective Agency.”</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Following their successful first outing, &lt;a href="https://standardebooks.org/collections/tommy-and-tuppence"&gt;Tommy and Tuppence&lt;/a&gt; featured in a number of &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; short stories. Christie drew these together and lightly revised them to produce the second novel in the series. Although a collection of stories, there is a frame narrative to give the collection coherence.&lt;/p&gt;
+			&lt;p&gt;As Tommy and Tuppence settle into their role of running Theodore Blunt’s International Detective Agency, they make use of a library of “Classics”—by which is meant “classics” of detective fiction—to investigate their cases. As the episodes unfold, the couple model their investigations on the manner of—among others—&lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt;, &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. Thorndyke&lt;/a&gt;, &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt;, and even Christie’s own &lt;a href="https://standardebooks.org/collections/poirot"&gt;Hercule Poirot&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Christie recounts these early adventures of Tommy and Tuppence with a light touch, not neglecting the relationship of the husband and wife team of sleuths along the way.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/78342</dc:source>
 		<dc:source>https://archive.org/details/bwb_C0-BNY-672</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">In the original print edition, six stories were split over two chapters. In this edition, these have been combined into a single chapter of two parts. The content remains the same.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Partners_in_Crime</meta>
-		<meta property="se:url.vcs.github">https://en.wikipedia.org/wiki/Partners_in_Crime_(short_story_collection)</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_partners-in-crime</meta>
 		<dc:creator id="author">Agatha Christie</dc:creator>
 		<meta property="file-as" refines="#author">Christie, Agatha</meta>
 		<meta property="se:name.person.full-name" refines="#author">Dame Agatha Mary Clarissa Christie, Lady Mallowan</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Agatha_Christie</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79038407</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">W. H. D. Koerner</dc:contributor>
+		<meta property="file-as" refines="#artist">Koerner, W. H. D.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">William Henry Dethlef Koerner</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wilhelm_Heinrich_Detlev_K%C3%B6rner</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50042947</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
