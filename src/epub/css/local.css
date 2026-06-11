@@ -43,8 +43,12 @@ table td:last-child{
 }
 
 /* Begin Bespoke */
-q:not(.telegram){
+q{
 	font-style: italic;
+}
+
+q.telegram{
+	font-style: normal;
 }
 
 .telegram{
