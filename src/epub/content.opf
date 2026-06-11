@@ -60,7 +60,7 @@
 		<meta property="se:production-notes">In the original print edition, six stories were split over two chapters. In this edition, these have been combined into a single chapter of two parts. The content remains the same.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Partners_in_Crime</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Partners_in_Crime_(short_story_collection)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_partners-in-crime</meta>
 		<dc:creator id="author">Agatha Christie</dc:creator>
 		<meta property="file-as" refines="#author">Christie, Agatha</meta>
